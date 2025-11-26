@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Ford-Robert.github.io/sitemap.xml
