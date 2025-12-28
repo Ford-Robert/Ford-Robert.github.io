@@ -23,4 +23,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a University of Toronto graduate with a Bachelor’s degree in Statistics and Computer Science, with a minor in History. My work spans machine learning research, AI engineering, and data systems; especially pipelines, verification, and management. I’ve built several self-directed projects across these areas, focusing on practical experimentation and clear, reproducible results.
+I’m a University of Toronto graduate with an Honours Bachelor of Science degree in Statistics and Computer Science, with a minor in History. My work spans data science, machine learning research, AI engineering, and data systems; pipelines, verification, and management. I’ve built several self-directed projects across these areas, focusing on practical experimentation and clear, reproducible results.
